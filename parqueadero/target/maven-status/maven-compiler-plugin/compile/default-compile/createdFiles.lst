@@ -1,0 +1,16 @@
+com/unicauca/parqueadero/acceso/controladores/VehiculoJpaController.class
+com/unicauca/parqueadero/acceso/entidades/TipoVehiculo.class
+com/unicauca/parqueadero/acceso/VehiculoDAOImplArreglos.class
+com/unicauca/parqueadero/acceso/entidades/Vehiculo_.class
+com/unicauca/parqueadero/negocio/GestorVehiculo.class
+com/unicauca/parqueadero/acceso/controladores/TipoVehiculoJpaController.class
+com/unicauca/parqueadero/acceso/VehiculoDAOImpJPA.class
+com/unicauca/parqueadero/negocio/Vehiculo.class
+com/unicauca/parqueadero/service/VehiculosREST.class
+com/unicauca/parqueadero/acceso/controladores/exceptions/IllegalOrphanException.class
+com/unicauca/parqueadero/acceso/controladores/exceptions/PreexistingEntityException.class
+com/unicauca/parqueadero/acceso/IvehiculoDAO.class
+com/unicauca/parqueadero/acceso/entidades/TipoVehiculo_.class
+com/unicauca/parqueadero/acceso/entidades/Vehiculo.class
+com/unicauca/parqueadero/service/ApplicationConfig.class
+com/unicauca/parqueadero/acceso/controladores/exceptions/NonexistentEntityException.class
